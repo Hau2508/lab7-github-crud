@@ -1,7 +1,7 @@
 # Lab 7 – SOF3041 – Kiểm thử nâng cao
 
-Họ và tên: Nguyễn Văn A
-MSSV     : PH12345
+Họ và tên: Nguyễn Vủ Hậu
+MSSV     : TV00000
 Lớp      : CDXXYY
 
 Hoàn thành các bài:
